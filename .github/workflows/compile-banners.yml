@@ -23,7 +23,7 @@ jobs:
             if (!fs.existsSync(path)) process.exit(0);
 
             // Set your CDN base domain here
-            const CDN_BASE = "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main";
+            const CDN_BASE = "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main";
 
             const files = fs.readdirSync(path).filter(f => f.endsWith(".json"));
             const banners = files.map(f => {
