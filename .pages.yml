@@ -12,22 +12,24 @@ content:
       - name: banners
         label: Banner List
         type: list
-        fields:
-          - name: id
-            label: Unique ID
-            type: string
-          - name: image
-            label: Banner Image
-            type: image
-          - name: targetUrl
-            label: Clickable URL
-            type: string
-          - name: altText
-            label: Alt Text
-            type: string
-          - name: order
-            label: Display Order
-            type: number
-          - name: active
-            label: Active?
-            type: boolean
+        list:
+          fields:
+            - name: id
+              label: Unique ID
+              type: string
+            - name: image
+              label: Banner Image
+              type: image
+            - name: targetUrl
+              label: Clickable URL
+              type: string
+            - name: altText
+              label: Alt Text
+              type: string
+            - name: order
+              label: Display Order
+              type: number
+            - name: active
+              label: Active?
+              type: boolean
+              default: true
