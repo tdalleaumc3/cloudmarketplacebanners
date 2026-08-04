@@ -1,0 +1,8 @@
+{
+  "id": "banner-1",
+  "image": "/media/banners/hero.jpg",
+  "targetUrl": "https://yourmarketplace.com/promo",
+  "altText": "Summer Promo",
+  "order": 1,
+  "active": true
+}
