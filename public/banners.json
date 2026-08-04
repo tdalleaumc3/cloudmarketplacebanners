@@ -13,7 +13,7 @@
     "targetUrl": "BT",
     "altText": "BT",
     "order": 2,
-    "active": true
+    "active": false
   },
   {
     "id": "banner-3",
