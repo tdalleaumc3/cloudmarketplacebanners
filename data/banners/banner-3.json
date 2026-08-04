@@ -1,5 +1,6 @@
 {
   "id": "banner-3",
   "image": "/media/banners/Pricing update.jpg",
+  "order": 3,
   "active": true
 }
