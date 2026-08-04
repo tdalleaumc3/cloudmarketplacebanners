@@ -27,6 +27,6 @@
     "id": "banner-4",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update-2.jpg",
     "order": 5,
-    "active": true
+    "active": false
   }
 ]
