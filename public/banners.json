@@ -38,6 +38,6 @@
   {
     "id": "test",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
-    "active": true
+    "active": false
   }
 ]
