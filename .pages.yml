@@ -7,8 +7,9 @@ content:
     label: Marketplace Banners
     type: collection
     path: data/banners
-    format: json            # Instructs Pages CMS to serialize data as JSON
-    extension: json         # Forces the generated file extension to .json
+    format: json
+    extension: json
+    filename: "{id}.json"     # <--- THIS IS THE MISSING KEY THAT OVERRIDES THE .MD DEFAULT
     fields:
       - name: id
         label: Banner ID / Slug
