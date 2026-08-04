@@ -5,7 +5,7 @@
     "targetUrl": "https://yourmarketplace.com/promo",
     "altText": "Summer Promo",
     "order": 1,
-    "active": true
+    "active": false
   },
   {
     "id": "banner-2",
