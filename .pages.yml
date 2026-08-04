@@ -7,7 +7,8 @@ content:
     label: Marketplace Banners
     type: collection
     path: data/banners
-    format: json
+    format: json            # Instructs Pages CMS to serialize data as JSON
+    extension: json         # Forces the generated file extension to .json
     fields:
       - name: id
         label: Banner ID / Slug
