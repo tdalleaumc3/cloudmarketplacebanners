@@ -1,0 +1,14 @@
+name: Purge jsDelivr Cache on Push
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge banners.json
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/public/banners.json"
