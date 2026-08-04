@@ -1,1 +1,35 @@
+# Define where media uploads are stored in Git and how public URLs map
+media:
+  input: media/banners
+  output: /media/banners
 
+content:
+  - name: banners
+    label: Marketplace Banners
+    type: file
+    path: data/banners.json
+    format: json
+    fields:
+      - name: banners
+        label: Banner List
+        type: list
+        fields:
+          - name: id
+            label: Unique ID / Slug
+            type: string
+          - name: image
+            label: Banner Image
+            type: image
+          - name: targetUrl
+            label: Clickable URL
+            type: string
+          - name: altText
+            label: Alt Text (Accessibility)
+            type: string
+          - name: order
+            label: Display Order (Number)
+            type: number
+          - name: active
+            label: Show on Marketplace?
+            type: boolean
+            default: true
