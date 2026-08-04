@@ -1,0 +1,26 @@
+[
+  {
+    "id": "banner-1",
+    "image": "/media/banners/Crossware banner - low.jpg",
+    "targetUrl": "https://yourmarketplace.com/promo",
+    "altText": "Summer Promo",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "banner-2",
+    "image": "/media/banners/Banner Bittitan.jpg",
+    "targetUrl": "BT",
+    "altText": "BT",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "banner-3",
+    "image": "/media/banners/Pricing update-1.jpg",
+    "targetUrl": "1",
+    "altText": "12",
+    "order": 4,
+    "active": true
+  }
+]
