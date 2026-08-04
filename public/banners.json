@@ -19,5 +19,12 @@
     "id": "banner-3",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update.jpg",
     "active": true
+  },
+  {
+    "id": "Banner Keepit",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-01.jpg",
+    "altText": "Keepit",
+    "order": 4,
+    "active": true
   }
 ]
