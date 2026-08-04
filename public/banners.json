@@ -27,5 +27,10 @@
     "altText": "Keepit",
     "order": 4,
     "active": true
+  },
+  {
+    "id": "test",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
+    "active": true
   }
 ]
