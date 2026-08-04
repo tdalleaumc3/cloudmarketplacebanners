@@ -8,28 +8,24 @@ content:
     type: file
     path: data/banners.json
     format: json
+    type: list
     fields:
-      - name: banners
-        label: Banner List
-        type: list
-        list:
-          fields:
-            - name: id
-              label: Unique ID
-              type: string
-            - name: image
-              label: Banner Image
-              type: image
-            - name: targetUrl
-              label: Clickable URL
-              type: string
-            - name: altText
-              label: Alt Text
-              type: string
-            - name: order
-              label: Display Order
-              type: number
-            - name: active
-              label: Active?
-              type: boolean
-              default: true
+      - name: id
+        label: Unique ID
+        type: string
+      - name: image
+        label: Banner Image
+        type: image
+      - name: targetUrl
+        label: Clickable URL
+        type: string
+      - name: altText
+        label: Alt Text
+        type: string
+      - name: order
+        label: Display Order
+        type: number
+      - name: active
+        label: Active?
+        type: boolean
+        default: true
