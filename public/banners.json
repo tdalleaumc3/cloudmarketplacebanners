@@ -1,7 +1,7 @@
 [
   {
     "id": "banner-1",
-    "image": "/media/banners/Crossware banner - low.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main/media/banners/Crossware%20banner%20-%20low.jpg",
     "targetUrl": "https://yourmarketplace.com/promo",
     "altText": "Summer Promo",
     "order": 1,
@@ -9,7 +9,7 @@
   },
   {
     "id": "banner-2",
-    "image": "/media/banners/Banner Bittitan.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main/media/banners/Banner%20Bittitan.jpg",
     "targetUrl": "BT",
     "altText": "BT",
     "order": 2,
@@ -17,10 +17,16 @@
   },
   {
     "id": "banner-3",
-    "image": "/media/banners/Pricing update-1.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main/media/banners/Pricing%20update-1.jpg",
     "targetUrl": "1",
     "altText": "12",
     "order": 4,
+    "active": true
+  },
+  {
+    "id": "banner-4",
+    "image": "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main/media/banners/Pricing%20update-2.jpg",
+    "order": 5,
     "active": true
   }
 ]
