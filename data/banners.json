@@ -1,10 +1,12 @@
-[
-  {
-    "id": "banner-1",
-    "image": "/media/banners/hero.jpg",
-    "targetUrl": "https://yourmarketplace.com/promo",
-    "altText": "Summer Sale",
-    "order": 1,
-    "active": true
-  }
-]
+{
+  "banners": [
+    {
+      "id": "banner-1",
+      "image": "/media/banners/hero.jpg",
+      "targetUrl": "https://yourmarketplace.com/promo",
+      "altText": "Summer Sale",
+      "order": 1,
+      "active": true
+    }
+  ]
+}
