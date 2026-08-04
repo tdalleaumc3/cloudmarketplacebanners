@@ -1,0 +1,8 @@
+{
+  "id": "banner-2",
+  "image": "/media/banners/Banner Bittitan.jpg",
+  "targetUrl": "BT",
+  "altText": "BT",
+  "order": 2,
+  "active": true
+}
