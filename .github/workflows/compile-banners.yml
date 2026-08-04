@@ -21,10 +21,21 @@ jobs:
             const fs = require("fs");
             const path = "./data/banners";
             if (!fs.existsSync(path)) process.exit(0);
-            
+
+            // Set your CDN base domain here
+            const CDN_BASE = "https://cdn.jsdelivr.net/gh/YOUR-ORG/YOUR-REPO@main";
+
             const files = fs.readdirSync(path).filter(f => f.endsWith(".json"));
-            const banners = files.map(f => JSON.parse(fs.readFileSync(`${path}/${f}`, "utf8")));
-            
+            const banners = files.map(f => {
+              const data = JSON.parse(fs.readFileSync(`${path}/${f}`, "utf8"));
+              
+              // Convert relative media paths to absolute CDN paths
+              if (data.image && data.image.startsWith("/")) {
+                data.image = encodeURI(`${CDN_BASE}${data.image}`);
+              }
+              return data;
+            });
+
             fs.writeFileSync("./public/banners.json", JSON.stringify(banners, null, 2));
           '
 
