@@ -14,19 +14,5 @@
     "altText": "BT",
     "order": 2,
     "active": true
-  },
-  {
-    "id": "banner-3",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update-1.jpg",
-    "targetUrl": "1",
-    "altText": "12",
-    "order": 4,
-    "active": true
-  },
-  {
-    "id": "banner-4",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update-2.jpg",
-    "order": 5,
-    "active": false
   }
 ]
