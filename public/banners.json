@@ -28,13 +28,5 @@
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update-2.jpg",
     "order": 5,
     "active": true
-  },
-  {
-    "id": "banner-6",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update.jpg",
-    "targetUrl": "www.google.com",
-    "altText": "goooogle",
-    "order": -1,
-    "active": true
   }
 ]
