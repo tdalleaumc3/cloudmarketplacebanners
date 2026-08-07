@@ -37,6 +37,13 @@
     "active": true
   },
   {
+    "id": "CrossWare",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-05.jpg",
+    "altText": "Email signature software",
+    "order": 5,
+    "active": true
+  },
+  {
     "id": "Microsoft Co Pilot",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
     "altText": "Work Smart with AI Copilot",
