@@ -24,6 +24,7 @@
   {
     "id": "Banner-Keepit",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-01.jpg",
+    "targetUrl": "http://events.mc3.digital/Keepit_Overview",
     "altText": "Keepit",
     "order": 4,
     "active": true
@@ -39,7 +40,7 @@
     "id": "Microsoft Co Pilot",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
     "altText": "Work Smart with AI Copilot",
-    "order": 4,
+    "order": 1,
     "active": true
   },
   {
