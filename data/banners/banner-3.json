@@ -1,6 +1,7 @@
 {
   "id": "banner-3",
   "image": "/media/banners/Pricing update.jpg",
+  "targetUrl": "http://events.mc3.digital/newpricingandfeaturesmicrosoft365startingjuly2026",
   "order": 3,
   "active": true
 }
