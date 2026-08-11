@@ -31,6 +31,13 @@
     "active": true
   },
   {
+    "id": "bittitan test",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Banner%20Bittitan-1.jpg",
+    "altText": "bittitan",
+    "order": 11,
+    "active": true
+  },
+  {
     "id": "Bullwall",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-03.jpg",
     "altText": "Stop Ransomware in its Tracks",
