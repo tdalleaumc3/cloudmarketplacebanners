@@ -1,0 +1,8 @@
+{
+  "id": "Subscription Alignment",
+  "image": "/media/banners/Marketplace-Banner.png",
+  "targetUrl": "https://bookings.cloud.microsoft/book/PlatformEnablement@mc3.fr/?ismsaljsauthenabled",
+  "altText": "Align Subscription",
+  "order": 6,
+  "active": true
+}
