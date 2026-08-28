@@ -20,7 +20,7 @@
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Pricing%20update.jpg",
     "targetUrl": "http://events.mc3.digital/newpricingandfeaturesmicrosoft365startingjuly2026",
     "order": 3,
-    "active": true
+    "active": false
   },
   {
     "id": "Banner-Keepit",
@@ -58,10 +58,5 @@
     "altText": "Align Subscription",
     "order": 6,
     "active": true
-  },
-  {
-    "id": "test",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
-    "active": false
   }
 ]
