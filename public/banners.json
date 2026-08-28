@@ -52,6 +52,14 @@
     "active": true
   },
   {
+    "id": "Subscription Alignment",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Marketplace-Banner.png",
+    "targetUrl": "https://bookings.cloud.microsoft/book/PlatformEnablement@mc3.fr/?ismsaljsauthenabled",
+    "altText": "Align Subscription",
+    "order": 6,
+    "active": true
+  },
+  {
     "id": "test",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-06.jpg",
     "active": false
