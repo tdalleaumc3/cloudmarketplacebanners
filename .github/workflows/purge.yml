@@ -5,10 +5,20 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   purge-cache:
     runs-on: ubuntu-latest
     steps:
-      - name: Purge banners.json
+      - name: Purge jsDelivr Global Edge Nodes
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/public/banners.json"
+          # 1. Purge root repo cache
+          curl -i -X GET "https://purge.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/"
+          
+          # 2. Purge public directory
+          curl -i -X GET "https://purge.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/public/"
+          
+          # 3. Purge specific banners.json file
+          curl -i -X GET "https://purge.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/public/banners.json"
