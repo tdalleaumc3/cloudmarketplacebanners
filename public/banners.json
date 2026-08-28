@@ -24,7 +24,7 @@
   },
   {
     "id": "Banner-Keepit",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-01.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-01-1.jpg",
     "targetUrl": "http://events.mc3.digital/Keepit_Overview",
     "altText": "Keepit",
     "order": 4,
@@ -39,7 +39,7 @@
   },
   {
     "id": "CrossWare",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-05.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Website%20Banner-05-1.jpg",
     "altText": "Email signature software",
     "order": 5,
     "active": true
@@ -54,7 +54,7 @@
   },
   {
     "id": "Subscription Alignment",
-    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Marketplace%20banner.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Marketplace%20banner-1.jpg",
     "targetUrl": "https://bookings.cloud.microsoft/book/PlatformEnablement@mc3.fr/?ismsaljsauthenabled",
     "altText": "Align Subscription",
     "order": 6,
