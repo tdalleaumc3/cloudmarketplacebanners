@@ -1,6 +1,7 @@
 {
   "id": "Microsoft Co Pilot",
   "image": "/media/banners/Website Banner-06.jpg",
+  "targetUrl": "https://wecacsp.mc3.cloud/product/?id=C160FE44-1E47-49B3-8D03-6C4341AA49B1#view-overview",
   "altText": "Work Smart with AI Copilot",
   "order": 1,
   "active": true
