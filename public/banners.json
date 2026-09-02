@@ -59,5 +59,13 @@
     "altText": "Align Subscription",
     "order": 6,
     "active": true
+  },
+  {
+    "id": "Turn a 30-Day Trial into a Long-Term AI Success Story",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Marketplace%20Banner%20Copilot.jpg",
+    "targetUrl": "href=\"mailto:sales@mc3.cloud\"",
+    "altText": "Copilot - 30 Day trial",
+    "order": 7,
+    "active": true
   }
 ]
