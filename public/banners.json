@@ -1,5 +1,10 @@
 [
   {
+    "id": "105",
+    "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Logo%20MC3%20Cloud-White.png",
+    "active": true
+  },
+  {
     "id": "banner-1",
     "image": "https://cdn.jsdelivr.net/gh/tdalleaumc3/cloudmarketplacebanners@main/media/banners/Crossware%20banner%20-%20low.jpg",
     "targetUrl": "https://yourmarketplace.com/promo",
